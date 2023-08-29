@@ -1,1 +1,1 @@
-# AI-Generator-image
+# WIIBOU-AI
